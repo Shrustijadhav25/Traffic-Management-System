@@ -8,17 +8,17 @@ Here's a glimpse into my journey:
 
 ## 🛠️ Projects
 
-### **Traffic Management System**  
+### **Traffic Management and Pollution Reduction**  
 
 **OVERVIEW:**
--Optimising traffic flow.
--Promoting sustainable urban planning
--Reducing vehicle emission.
--Improving public transportation
--Switch to electric vehicle (EV) simulation
--Implementing regular maintenance alerts
--Switching to alternative fuels
--Simulating fuel efficiency improvements.
+* Optimising traffic flow.
+* Promoting sustainable urban planning
+* Reducing vehicle emission.
+* Improving public transportation
+* Switch to electric vehicle (EV) simulation
+* Implementing regular maintenance alerts
+* Switching to alternative fuels
+* Simulating fuel efficiency improvements. 
 
 **Technical Stack:**  
 Languages: C++, Java
